@@ -6,3 +6,4 @@
         -o-background-size: cover;
         font-family: 'Bitter', serif;
       }
+      #carousel .carousel-caption { text-shadow: 2px 2px 5px black; }
